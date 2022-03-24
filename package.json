@@ -1,0 +1,22 @@
+{
+  "name": "background-genarator",
+  "version": "1.0.0",
+  "description": "This is a background generator",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukerebeirowebdev/background-genarator.git"
+  },
+  "author": "Luke Rebeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukerebeirowebdev/background-genarator/issues"
+  },
+  "homepage": "https://github.com/lukerebeirowebdev/background-genarator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
